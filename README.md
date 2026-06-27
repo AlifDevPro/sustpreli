@@ -113,7 +113,7 @@ src/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/queue-storm-investigator.git
+git clone https://github.com/AlifDevPro/sustpreli queue-storm-investigator
 cd queue-storm-investigator
 npm install
 ```
